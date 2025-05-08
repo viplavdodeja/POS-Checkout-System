@@ -46,9 +46,10 @@ HOW TO RUN
 -----------
 1. Clone this repository:
    git clone https://github.com/yourusername/checkout-state-machine.git
+
    cd checkout-state-machine
 
-2. Run the application:
+3. Run the application:
    python checkout.py
 
 EXAMPLE ACTIONS
